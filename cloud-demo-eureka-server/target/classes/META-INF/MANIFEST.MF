@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 15.0.2
+Implementation-Title: cloud-demo-eureka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hewl
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

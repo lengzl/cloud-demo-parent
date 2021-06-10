@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: service-eureka-client #服务名称
+server:
+  port: 8800 #端口
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:admin@localhost:8761/eureka/  #服务中心地址 admin:admin@
